@@ -5,9 +5,9 @@ Account: customer@example.com/ 123456
 
 How to run test:
 1. Login with Customer Account: 
-- check invaid email
-- invaid password
-- login success
+    - check invaid email
+    - invaid password
+    - login success
 2.  Login User Page > Manage Profile (update)
 3. Login User Page > Get thông tin của một mặt hàng tuỳ ý > Lưu vào sheet Excel riêng
 4. Login User Page > Thêm vào giỏ hàng 2 mặt hàng tuỳ ý
